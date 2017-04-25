@@ -1,0 +1,2917 @@
+Starting on Aidans-MacBook-Air.local
+TunerStudio 3.0.18.09 started on Sat Apr 15 14:08:28 PDT 2017
+JRE 1.8.0_111, Mac OS X 10.9.5, x86_64
+java.library.path=/Users/aidandj/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+/Applications/TunerStudioMS/TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Mac OS X, ClassName:'com.apple.laf.AquaLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:de.muntjak.tinylookandfeel.TinyLookAndFeel
+TinyLaF v1.4.0
+Theme: jar:file:/Applications/TunerStudioMS/TunerStudioMS.jar!/Default.theme
+ScrollBar.width
+4/15/17 2:08:32 PM :Debug: no update:defaultFont
+4/15/17 2:08:35 PM :Info: Loading Language Content.
+4/15/17 2:08:35 PM :Info: Initializing File Dialogs.
+4/15/17 2:08:35 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+4/15/17 2:08:35 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+4/15/17 2:08:35 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+4/15/17 2:08:35 PM :Info: Initializing Plugin Services.
+4/15/17 2:08:35 PM :Info: Loading Plugins.
+4/15/17 2:08:35 PM :Info: Initializing Help.
+4/15/17 2:08:35 PM :Info: Initializing Edition Features.
+4/15/17 2:08:35 PM :Info: Initializing App Events.
+4/15/17 2:08:35 PM :Debug: App Name:TunerStudio, appEdition:MS Ultra
+4/15/17 2:08:36 PM :Info: Initializing Log Viewer Components.
+4/15/17 2:08:36 PM :Info: Initializing User Interface
+4/15/17 2:08:36 PM :Warning: Unable to set Main cluster for title:
+4/15/17 2:08:36 PM :Info: Checking for updates
+4/15/17 2:08:36 PM :Info: Error Sorting Dialog: column beyond range of TableModel
+4/15/17 2:08:38 PM :Info: Loading Font list.
+4/15/17 2:08:38 PM :Debug: Time to retreive font name list: 50 ms.
+4/15/17 2:08:38 PM :Info: 
+4/15/17 2:08:38 PM :Info: Initializing UI Components.
+4/15/17 2:08:38 PM :Info: Ready
+Saved user properties successfully
+Saved user properties successfully
+4/15/17 2:08:42 PM :Info: Update Check Completed
+Saved user properties successfully
+Saved user properties successfully
+4/15/17 2:08:48 PM :Info: Opening Project ...
+4/15/17 2:08:48 PM :Debug: Opening project: /Users/aidandj/TunerStudioProjects/Aidan1.9LVVT
+4/15/17 2:08:48 PM :Debug: Reading translation file as plain text
+4/15/17 2:08:48 PM :Debug: EventTrigger Data log Reset. expression: 
+4/15/17 2:08:48 PM :Debug: EventTrigger Stop Data log Reset. expression: 
+4/15/17 2:08:49 PM :Info: Time to read cache Object: 282.65723
+4/15/17 2:08:49 PM :Info: Time to load primary config: 288.71216ms. used cached config: true
+4/15/17 2:08:49 PM :Info: Supported iniSpecVersion=3.51
+4/15/17 2:08:49 PM :Info: Read file ms3_1.2_WueAnalyzeMap.ecu: 9.83734ms
+4/15/17 2:08:49 PM :Info: Filtered ini: 0.176477ms
+4/15/17 2:08:49 PM :Info: No iniVersion defined
+4/15/17 2:08:49 PM :Info: Loading Trigger Wheels
+4/15/17 2:08:49 PM :Info: Loaded All known ini sections
+4/15/17 2:08:49 PM :Info: Parsed and validated ini "ms3_1.2_WueAnalyzeMap.ecu" in : 61ms.
+Apr 15, 2017 2:08:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:08:50 PM :Info: Supported iniSpecVersion=3.51
+4/15/17 2:08:50 PM :Info: Read file canPcVariables.ini: 1.068436ms
+4/15/17 2:08:50 PM :Info: Filtered ini: 0.0136ms
+4/15/17 2:08:50 PM :Info: No iniVersion defined
+4/15/17 2:08:50 PM :Info: Loading Trigger Wheels
+4/15/17 2:08:50 PM :Info: Loaded All known ini sections
+4/15/17 2:08:50 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 4ms.
+4/15/17 2:08:50 PM :Info: Read file TINY0.ini: 5.835974ms
+4/15/17 2:08:50 PM :Info: Filtered ini: 1.4406ms
+4/15/17 2:08:50 PM :Info: No iniVersion defined
+4/15/17 2:08:50 PM :Debug: ini signature: IOExtenderT V0.2.0 
+4/15/17 2:08:50 PM :Info: Loading Trigger Wheels
+4/15/17 2:08:50 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+4/15/17 2:08:50 PM :Info: Loaded All known ini sections
+4/15/17 2:08:50 PM :Info: Parsed and validated ini "TINY0.ini" in : 99ms.
+4/15/17 2:08:50 PM :Info: Not Loading default Tools because non are defined for signature: IOExtenderT V0.2.0 
+4/15/17 2:08:50 PM :Debug: Adding Configuration: TINY0
+4/15/17 2:08:50 PM :Info: Supported iniSpecVersion=3.51
+4/15/17 2:08:50 PM :Debug: Adding Configuration: Aidan1.9LVVT
+4/15/17 2:08:50 PM :Debug: Fill Constants: 69
+4/15/17 2:08:51 PM :Info: Tune opened, 18509 bytes updated. File:/Users/aidandj/TunerStudioProjects/Aidan1.9LVVT/CurrentTune.msq
+4/15/17 2:08:51 PM :Info: Tune opened, 18509 bytes updated. File:/Users/aidandj/TunerStudioProjects/Aidan1.9LVVT/CurrentTune.msq
+4/15/17 2:08:51 PM :Debug: Flush lasted: 1ms.
+4/15/17 2:08:51 PM :Debug: Fill Constants: 3
+4/15/17 2:08:51 PM :Info: Tune opened, 32 bytes updated. File:/Users/aidandj/TunerStudioProjects/Aidan1.9LVVT/TINY0_CurrentTune.msq
+4/15/17 2:08:51 PM :Info: Tune opened, 32 bytes updated. File:/Users/aidandj/TunerStudioProjects/Aidan1.9LVVT/TINY0_CurrentTune.msq
+4/15/17 2:08:51 PM :Debug: Flush lasted: 3ms.
+4/15/17 2:08:51 PM :Info: !!! Loaded config in 2619
+4/15/17 2:08:51 PM :Info: Com Thread created: COMM Thread17719.14944714631
+4/15/17 2:08:51 PM :Info: !!! Activated Project 3101
+4/15/17 2:08:51 PM :Info: Comm Manager for Aidan1.9LVVT Started, thread ID: COMM Thread17719.14944714631
+4/15/17 2:08:51 PM :Info: Opening Gauge Cluster..
+4/15/17 2:08:51 PM :Info: Time to read cache Object: 99.95796
+4/15/17 2:08:51 PM :Info: Time to check / load cached dash: 137.13403, file: dashboard.dash
+4/15/17 2:08:52 PM :Debug: High Speed Paint: false
+4/15/17 2:08:52 PM :Info: 
+4/15/17 2:08:52 PM :Debug: !!! Opened Dash 3730
+4/15/17 2:08:52 PM :Info: Aidan1.9LVVT Ready
+4/15/17 2:08:52 PM :Debug: Tuning View Files loaded in 0.244852ms.
+4/15/17 2:08:52 PM :Info: Supported iniSpecVersion=3.51
+4/15/17 2:08:52 PM :Info: Read file ms3VeAnalyzeMaps.ini: 2.178357ms
+4/15/17 2:08:52 PM :Info: Filtered ini: 0.229017ms
+4/15/17 2:08:52 PM :Info: No iniVersion defined
+4/15/17 2:08:52 PM :Info: Loading Trigger Wheels
+4/15/17 2:08:52 PM :Info: Loaded All known ini sections
+4/15/17 2:08:52 PM :Info: Parsed and validated ini "ms3VeAnalyzeMaps.ini" in : 21ms.
+Apr 15, 2017 2:08:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:08:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:08:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:08:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:08:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:08:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:09:03 PM :Info: Initiating read page 1 : 97:707
+4/15/17 2:09:03 PM :Info: Initiating read page 2 : 96:4
+Apr 15, 2017 2:09:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:09:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:09:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:10:54 PM :Info: Initiating read page 1 : 718:85
+4/15/17 2:10:54 PM :Info: Initiating read page 2 : 656:2
+4/15/17 2:10:54 PM :Info: Initiating read page 5 : 304:32
+Apr 15, 2017 2:10:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:10:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:10:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:11:16 PM :Debug: Flush lasted: 0ms.
+Apr 15, 2017 2:11:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:11:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:11:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:12:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:12:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:13:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:13:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:14:39 PM :Info: Initiating read page 5 : 336:398
+Apr 15, 2017 2:14:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:14:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:14:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:15:35 PM :Info: Initiating read page 7 : 0:512
+4/15/17 2:15:35 PM :Info: Initiating read page 10 : 0:128
+Apr 15, 2017 2:15:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:15:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:15:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:16:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:16:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:17:24 PM :Debug: Flush lasted: 0ms.
+4/15/17 2:17:24 PM :Debug: Flush lasted: 0ms.
+Apr 15, 2017 2:17:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:17:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:17:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:18:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:18:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:19:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:19:56 PM :Info: Initiating read page 5 : 336:398
+Apr 15, 2017 2:19:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:19:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:20:36 PM :Debug: Flush lasted: 0ms.
+4/15/17 2:20:37 PM :Debug: Flush lasted: 1ms.
+Apr 15, 2017 2:20:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:20:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:20:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:21:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:21:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:22:20 PM :Info: Initiating read page 5 : 336:398
+Apr 15, 2017 2:22:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:22:39 PM :Debug: Flush lasted: 0ms.
+Apr 15, 2017 2:22:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:22:39 PM :Debug: Flush lasted: 0ms.
+Apr 15, 2017 2:22:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:22:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:22:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+4/15/17 2:23:43 PM :Info: Initiating read page 5 : 336:398
+Apr 15, 2017 2:23:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:23:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:23:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:24:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:24:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:25:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:25:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:26:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:26:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:27:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:27:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:28:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:28:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:29:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:29:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:30:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:30:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:31:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:31:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:32:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:32:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 2:33:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 2:33:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:12:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:12:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:13:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:13:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:14:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:14:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:15:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:15:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:16:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:16:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:17:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:17:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:18:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:18:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:19:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:19:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:20:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:20:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:21:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:21:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:22:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:22:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:26 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:23:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:23:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:29 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:24:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:24:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:35 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:25:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:25:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:26:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:26:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:22 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:27:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:27:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:06 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:28:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:28:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:55 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:29:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:29:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 3:30:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 3:30:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:29:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:29:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:29:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:29:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:29:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:29:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:29:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:29:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:29:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:29:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:29:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:29:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:25 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:28 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 4:30:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 4:30:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:32 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:41 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:52 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:30:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:30:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:01 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:03 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:10 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:13 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:16 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:31:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:31:19 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:38 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:44 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:47 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:49 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:52:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:52:58 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:00 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:04 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:07 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:09 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:12 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:15 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:18 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:21 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:31 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:34 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:37 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:40 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:43 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:46 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:50 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:53 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:56 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:53:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:53:59 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:02 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:05 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:08 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:11 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:14 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:17 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:23 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:27 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:30 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:33 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:36 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:39 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:42 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:45 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:48 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:51 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:54 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+Apr 15, 2017 5:54:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+4/15/17 5:54:57 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.

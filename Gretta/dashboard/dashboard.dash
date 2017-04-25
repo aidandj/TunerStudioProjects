@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dsh xmlns="http://www.EFIAnalytics.com/:dsh">
+<bibliography author="TunerStudio 3.0.03 - EFI Analytics - support@efianalytics.com" company="EFI Analytics, © 2007 - 2016, All Rights Reserved." writeDate="Tue Aug 02 16:21:43 PDT 2016"/>
+<versionInfo fileFormat="3.0" firmwareSignature="MS3 Format 0435.16P"/>
+<gaugeCluster antiAliasing="false" backgroundDitherColor="-8355712" clusterBackgroundColor="-1118482" clusterBackgroundImageFileName="" clusterBackgroundImageStyle="Center"/>
+</dsh>

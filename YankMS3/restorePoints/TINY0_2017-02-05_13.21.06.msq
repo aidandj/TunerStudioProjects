@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS Ultra(Beta) 3.0.18 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Sun Feb 05 13:21:06 PST 2017"/>
+<versionInfo fileFormat="5.0" firmwareInfo="TinyIOx+Alpha+V0.2.0+20151109+21%3A12+EST+%28c%29+JB+************" nPages="2" signature="IOExtenderT V0.2.0 "/>
+<page>
+<pcVariable name="tsCanId">"4"</pcVariable>
+<pcVariable digits="0" name="rpmhigh" units="rpm">9000.0</pcVariable>
+<pcVariable digits="0" name="rpmwarn" units="rpm">6000.0</pcVariable>
+<pcVariable digits="0" name="rpmdang" units="rpm">7000.0</pcVariable>
+<pcVariable digits="0" name="loadhigh">400.0</pcVariable>
+</page>
+<page number="0" size="768"/>
+<page number="1" size="51"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="SHOW_INDICATORS" value="SHOW_INDICATORS"/>
+<setting name="SERIAL_OFF" value="SERIAL_OFF"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>

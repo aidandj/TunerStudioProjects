@@ -1,0 +1,140 @@
+Starting on PC-BEAV-4842
+TunerStudio 3.0.18 started on Thu Mar 09 12:29:33 PST 2017
+JRE 1.8.0_25, Windows 7 6.1, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+3/9/17 12:29:34 PM :Debug: no update:defaultFont
+3/9/17 12:29:39 PM :Info: Loading Language Content.
+3/9/17 12:29:39 PM :Info: Initializing File Dialogs.
+3/9/17 12:29:40 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+3/9/17 12:29:40 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+3/9/17 12:29:40 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+3/9/17 12:29:40 PM :Info: Initializing Plugin Services.
+3/9/17 12:29:40 PM :Info: Loading Plugins.
+3/9/17 12:29:40 PM :Info: Initializing Help.
+3/9/17 12:29:40 PM :Info: Initializing Edition Features.
+3/9/17 12:29:40 PM :Info: Initializing App Events.
+3/9/17 12:29:40 PM :Debug: App Name:TunerStudio, appEdition:MS
+3/9/17 12:29:40 PM :Info: Initializing User Interface
+3/9/17 12:29:40 PM :Warning: Unable to set Main cluster for title:
+arg found 0:C:\Users\adalyjen\Downloads\CurrentTune (5).msq
+3/9/17 12:29:42 PM :Info: Loading Font list.
+3/9/17 12:29:42 PM :Debug: Time to retreive font name list: 26 ms.
+3/9/17 12:29:42 PM :Info: 
+3/9/17 12:29:42 PM :Info: Initializing UI Components.
+3/9/17 12:29:42 PM :Info: Ready
+3/9/17 12:29:43 PM :Debug: Delete Results dashboard.dash true
+3/9/17 12:29:43 PM :Debug: Delete Results dashboard true
+3/9/17 12:29:43 PM :Debug: Delete Results DataLogs true
+3/9/17 12:29:43 PM :Debug: Delete Results inc true
+3/9/17 12:29:43 PM :Debug: Delete Results MS3Format0435.16P.ini true
+3/9/17 12:29:43 PM :Debug: Delete Results project.properties true
+3/9/17 12:29:43 PM :Debug: Delete Results project.properties.bkup true
+3/9/17 12:29:43 PM :Debug: Delete Results projectCfg true
+3/9/17 12:29:43 PM :Debug: Delete Results Temp_2017-03-08_12.35.34.msq true
+3/9/17 12:29:43 PM :Debug: Delete Results restorePoints true
+3/9/17 12:29:43 PM :Debug: Delete Results TuneView_000.tuneView true
+3/9/17 12:29:43 PM :Debug: Delete Results TuneView_001.tuneView true
+3/9/17 12:29:43 PM :Debug: Delete Results TuneView_002.tuneView true
+3/9/17 12:29:43 PM :Debug: Delete Results TuneView true
+3/9/17 12:29:43 PM :Debug: Delete Results Temp true
+3/9/17 12:29:43 PM :Debug: Reading translation file as plain text
+3/9/17 12:29:43 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:43 PM :Info: Read file MS3Format0524.05.ini: 22.084406ms
+3/9/17 12:29:43 PM :Info: Filtered ini: 31.858204ms
+3/9/17 12:29:43 PM :Info: No iniVersion defined
+3/9/17 12:29:43 PM :Debug: ini signature: MS3 Format 0524.05 
+3/9/17 12:29:43 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:43 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+3/9/17 12:29:43 PM :Debug: break 987421
+3/9/17 12:29:43 PM :Debug: break 987421
+3/9/17 12:29:43 PM :Debug: break 987421
+3/9/17 12:29:43 PM :Debug: break 987421
+3/9/17 12:29:43 PM :Debug: break 987421
+3/9/17 12:29:43 PM :Debug: break 987421
+3/9/17 12:29:43 PM :Warning: Variable 'tsLocalCanId' used in expression, but not defined as OutputChannel or Setting Parameter in Temp, Problem at:
+[MS3Format0524.05.ini]:[Line:5538]:           subMenu = std_ms3SdConsole, "Browse / Import SD Card",0, {log_style_on2 && (tsLocalCanId == tsCanId) }
+
+3/9/17 12:29:43 PM :Info: Loaded All known ini sections
+3/9/17 12:29:43 PM :Info: Parsed and validated ini "MS3Format0524.05.ini" in : 334ms.
+3/9/17 12:29:44 PM :Debug: Time to save Dash: 146 ms.
+3/9/17 12:29:44 PM :Debug: ############################################# Save Project ##########################################
+3/9/17 12:29:44 PM :Info: Opening Project ...
+3/9/17 12:29:44 PM :Debug: Opening project: C:\Users\adalyjen\Google Drive\TunerStudioProjects\Temp\
+3/9/17 12:29:44 PM :Debug: EventTrigger Data log Reset. expression: 
+3/9/17 12:29:44 PM :Debug: EventTrigger Stop Data log Reset. expression: 
+3/9/17 12:29:44 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:44 PM :Debug: Filtered ConfigurationOptionGroup in 48ms.
+3/9/17 12:29:44 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:44 PM :Info: Read file canPcVariables.ini: 0.56846ms
+3/9/17 12:29:44 PM :Info: Filtered ini: 0.003421ms
+3/9/17 12:29:44 PM :Info: No iniVersion defined
+3/9/17 12:29:44 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:44 PM :Info: Loaded All known ini sections
+3/9/17 12:29:44 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 2ms.
+3/9/17 12:29:44 PM :Info: Read file MS3Format0524.05.ini: 13.642065ms
+3/9/17 12:29:44 PM :Info: Filtered ini: 17.524015ms
+3/9/17 12:29:44 PM :Info: No iniVersion defined
+3/9/17 12:29:44 PM :Debug: ini signature: MS3 Format 0524.05 
+3/9/17 12:29:44 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:44 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+3/9/17 12:29:44 PM :Debug: break 987421
+3/9/17 12:29:44 PM :Debug: break 987421
+3/9/17 12:29:44 PM :Debug: break 987421
+3/9/17 12:29:44 PM :Debug: break 987421
+3/9/17 12:29:44 PM :Debug: break 987421
+3/9/17 12:29:44 PM :Debug: break 987421
+3/9/17 12:29:44 PM :Info: Loaded All known ini sections
+3/9/17 12:29:44 PM :Info: Parsed and validated ini "MS3Format0524.05.ini" in : 152ms.
+3/9/17 12:29:44 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:44 PM :Info: Read file ms3Supplement.ecu: 12.880533ms
+3/9/17 12:29:44 PM :Info: Filtered ini: 0.029816ms
+3/9/17 12:29:44 PM :Info: No iniVersion defined
+3/9/17 12:29:44 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:44 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+3/9/17 12:29:44 PM :Info: Loaded All known ini sections
+3/9/17 12:29:44 PM :Info: Parsed and validated ini "ms3Supplement.ecu" in : 30ms.
+3/9/17 12:29:44 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:44 PM :Info: Read file ms3DefaultTools.ini: 0.438443ms
+3/9/17 12:29:44 PM :Info: Filtered ini: 0.0044ms
+3/9/17 12:29:44 PM :Info: No iniVersion defined
+3/9/17 12:29:44 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:44 PM :Info: Loaded All known ini sections
+3/9/17 12:29:44 PM :Info: Parsed and validated ini "ms3DefaultTools.ini" in : 6ms.
+3/9/17 12:29:44 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:44 PM :Info: Read file ms3_1.2_WueAnalyzeMap.ecu: 0.479989ms
+3/9/17 12:29:44 PM :Info: Filtered ini: 0.021018ms
+3/9/17 12:29:44 PM :Info: No iniVersion defined
+3/9/17 12:29:44 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:44 PM :Info: Loaded All known ini sections
+3/9/17 12:29:44 PM :Info: Parsed and validated ini "ms3_1.2_WueAnalyzeMap.ecu" in : 7ms.
+3/9/17 12:29:45 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:45 PM :Debug: Adding Configuration: Temp
+3/9/17 12:29:45 PM :Info: !!! Loaded config in 305
+3/9/17 12:29:45 PM :Info: !!! Activated Project 456
+3/9/17 12:29:45 PM :Info: Opening Gauge Cluster..
+3/9/17 12:29:46 PM :Debug: High Speed Paint: true
+3/9/17 12:29:46 PM :Info: 
+3/9/17 12:29:46 PM :Debug: !!! Opened Dash 1564
+3/9/17 12:29:46 PM :Info: Temp Ready
+3/9/17 12:29:46 PM :Debug: Tuning View Files loaded in 90.77129ms.
+3/9/17 12:29:46 PM :Debug: Fill Constants: 62
+3/9/17 12:29:46 PM :Info: Tune opened, 17482 bytes updated. File:C:\Users\adalyjen\Downloads\CurrentTune (5).msq
+3/9/17 12:29:46 PM :Info: Tune opened, 17482 bytes updated. File:C:\Users\adalyjen\Downloads\CurrentTune (5).msq
+3/9/17 12:29:46 PM :Debug: Flush lasted: 0ms.
+3/9/17 12:29:46 PM :Info: Supported iniSpecVersion=3.51
+3/9/17 12:29:46 PM :Info: Read file ms3VeAnalyzeMaps.ini: 0.74198ms
+3/9/17 12:29:46 PM :Info: Filtered ini: 0.097758ms
+3/9/17 12:29:46 PM :Info: No iniVersion defined
+3/9/17 12:29:46 PM :Info: Loading Trigger Wheels
+3/9/17 12:29:46 PM :Info: Loaded All known ini sections
+3/9/17 12:29:46 PM :Info: Parsed and validated ini "ms3VeAnalyzeMaps.ini" in : 5ms.
+3/9/17 12:30:05 PM :Info: Initiating read page 1 : 77:826

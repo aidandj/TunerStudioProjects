@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS 3.0.18 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Tue Mar 21 12:01:17 PDT 2017"/>
+<versionInfo fileFormat="5.0" firmwareInfo="TinyIOx+Alpha+V0.2.0+20151109+21%3A12+EST+%28c%29+JB+************" nPages="2" signature="IOExtenderT V0.2.0 "/>
+<page>
+<pcVariable name="tsCanId">"4"</pcVariable>
+<pcVariable digits="0" name="rpmhigh" units="rpm">9000.0</pcVariable>
+<pcVariable digits="0" name="rpmwarn" units="rpm">6000.0</pcVariable>
+<pcVariable digits="0" name="rpmdang" units="rpm">7000.0</pcVariable>
+<pcVariable digits="0" name="loadhigh">400.0</pcVariable>
+</page>
+<page number="0" size="768">
+<constant name="adc_enable">"Enable"</constant>
+<constant name="pwm_in_enable">"Disable"</constant>
+<constant name="ports_enable">"Disable"</constant>
+<constant name="pwm_out_enable">"Disable"</constant>
+<constant name="timer_source1">"Bus (24MHz)"</constant>
+<constant name="timer_source2">"Bus (24MHz)"</constant>
+<constant name="timer2_pwm">"8 bits"</constant>
+<constant name="timer_prescale1">"128"</constant>
+<constant name="timer_prescale2">"1"</constant>
+<constant digits="0" name="pwm_freq_div1">0.0</constant>
+<constant digits="0" name="pwm_freq_div2">0.0</constant>
+<constant name="pwm_freq10_div2">"0"</constant>
+<constant name="pwm_freq12_div2">"0"</constant>
+<constant name="adcparam">"10 bits"</constant>
+<constant name="mapping_cfg">"Disabled"</constant>
+<constant name="adc_map1">"PTA0/AD0"</constant>
+<constant name="adc_map2">"PTA1/AD1"</constant>
+<constant name="adc_map3">"PTA2/AD2"</constant>
+<constant name="adc_map4">"PTA3/AD3"</constant>
+<constant name="adc_map5">"PTA4/AD4"</constant>
+<constant name="adc_map6">"PTA5/AD5"</constant>
+<constant name="adc_map7">"PTA6/AD6"</constant>
+<constant name="adc_map8">"PTB0/AD8"</constant>
+<constant name="adc_map9">"PTB1/AD9"</constant>
+<constant digits="0" name="pwmsel1" units="Channel">0.0</constant>
+<constant digits="0" name="pwmsel2" units="Channel">0.0</constant>
+<constant digits="0" name="pwmsel3" units="Channel">0.0</constant>
+<constant digits="0" name="pwmsel4" units="Channel">0.0</constant>
+<constant name="pwm_edge1">"Rising"</constant>
+<constant name="pwm_edge2">"Rising"</constant>
+<constant name="pwm_edge3">"Rising"</constant>
+<constant name="pwm_edge4">"Rising"</constant>
+<constant name="pwm_typ1">"Interval"</constant>
+<constant name="pwm_typ2">"Interval"</constant>
+<constant name="pwm_typ3">"Interval"</constant>
+<constant name="pwm_typ4">"Interval"</constant>
+<constant name="pwm_size">"16-bit counter"</constant>
+<constant name="pwm_reject1">"Disable"</constant>
+<constant name="pwm_reject2">"Disable"</constant>
+<constant name="pwm_reject3">"Disable"</constant>
+<constant name="pwm_reject4">"Disable"</constant>
+<constant digits="0" name="pwm_stall1">10.0</constant>
+<constant digits="0" name="pwm_stall2">10.0</constant>
+<constant digits="0" name="pwm_stall3">10.0</constant>
+<constant digits="0" name="pwm_stall4">10.0</constant>
+<constant name="port_dir1">"Output"</constant>
+<constant name="port_dir2">"Output"</constant>
+<constant name="port_dir3">"Input"</constant>
+<constant name="port_type1">"Digital (8 signals)"</constant>
+<constant name="port_type2">"Digital (8 signals)"</constant>
+<constant name="port_type3">"Digital (8 signals)"</constant>
+<constant name="port1sel1">"PTE2"</constant>
+<constant name="port1sel2">"Unassigned"</constant>
+<constant name="port1sel3">"Unassigned"</constant>
+<constant name="port1sel4">"Unassigned"</constant>
+<constant name="port1sel5">"Unassigned"</constant>
+<constant name="port1sel6">"Unassigned"</constant>
+<constant name="port1sel7">"Unassigned"</constant>
+<constant name="port1sel8">"Unassigned"</constant>
+<constant name="port2sel1">"PTE3"</constant>
+<constant name="port2sel2">"Unassigned"</constant>
+<constant name="port2sel3">"Unassigned"</constant>
+<constant name="port2sel4">"Unassigned"</constant>
+<constant name="port2sel5">"Unassigned"</constant>
+<constant name="port2sel6">"Unassigned"</constant>
+<constant name="port2sel7">"Unassigned"</constant>
+<constant name="port2sel8">"Unassigned"</constant>
+<constant name="port3sel1">"Unassigned"</constant>
+<constant name="port3sel2">"Unassigned"</constant>
+<constant name="port3sel3">"Unassigned"</constant>
+<constant name="port3sel4">"Unassigned"</constant>
+<constant name="port3sel5">"Unassigned"</constant>
+<constant name="port3sel6">"Unassigned"</constant>
+<constant name="port3sel7">"Unassigned"</constant>
+<constant name="port3sel8">"Unassigned"</constant>
+<constant name="ad1active">"Active"</constant>
+<constant name="ad2active">"Disabled"</constant>
+<constant name="ad3active">"Disabled"</constant>
+<constant name="ad4active">"Disabled"</constant>
+<constant name="ad5active">"Disabled"</constant>
+<constant name="ad6active">"Disabled"</constant>
+<constant name="ad7active">"Disabled"</constant>
+<constant name="ad8active">"Disabled"</constant>
+<constant name="ad9active">"Disabled"</constant>
+<constant name="serial1_baud_LC1">"19200"</constant>
+<constant name="serial1_baud_tune">"115200"</constant>
+<constant name="serial1_use">"Read AFR from LC-1/LC-2"</constant>
+<constant digits="0" name="ad1lag">100.0</constant>
+<constant digits="0" name="ad2lag">100.0</constant>
+<constant digits="0" name="ad3lag">100.0</constant>
+<constant digits="0" name="ad4lag">100.0</constant>
+<constant digits="0" name="ad5lag">100.0</constant>
+<constant digits="0" name="ad6lag">100.0</constant>
+<constant digits="0" name="ad7lag">100.0</constant>
+<constant digits="0" name="ad8lag">100.0</constant>
+<constant digits="0" name="ad9lag">100.0</constant>
+<constant digits="0" name="pwm1lag">100.0</constant>
+<constant digits="0" name="pwm2lag">100.0</constant>
+<constant digits="0" name="pwm3lag">100.0</constant>
+<constant digits="0" name="pwm4lag">100.0</constant>
+<constant name="pwmoutsize1">"8-bit"</constant>
+<constant name="pwmoutsize2">"8-bit"</constant>
+<constant name="pwmoutsel1">"Disabled"</constant>
+<constant name="pwmoutsel2">"Disabled"</constant>
+<constant name="pwmoutsel3">"Disabled"</constant>
+<constant name="pwmoutsel4">"Disabled"</constant>
+<constant name="pwmoutsel5">"Disabled"</constant>
+<constant name="pwmoutsel6">"Disabled"</constant>
+<constant name="pwmoutrmt1">"Local"</constant>
+<constant name="pwmoutrmt2">"Local"</constant>
+<constant name="pwmoutrmt3">"Local"</constant>
+<constant name="pwmoutrmt4">"Local"</constant>
+<constant name="pwmoutrmt5">"Local"</constant>
+<constant name="pwmoutrmt6">"Local"</constant>
+<constant digits="0" name="pwmoutmod1">0.0</constant>
+<constant digits="0" name="pwmoutmod2">0.0</constant>
+<constant name="afrconfig">"Enable LC-1 reading from serial port"</constant>
+<constant digits="2" name="afrdefault">14.7</constant>
+<constant name="slcnbsensors">"1"</constant>
+<constant name="ms2afrovr">"Disabled"</constant>
+<constant name="nbafrovr">"1"</constant>
+<constant name="gen_pwm_enableA">"Off"</constant>
+<constant name="gen_pwm_enableB">"Off"</constant>
+<constant name="gen_pwm_servoA">"PWM"</constant>
+<constant name="gen_pwm_servoB">"PWM"</constant>
+<constant name="gen_pwm_curveA">"Table"</constant>
+<constant name="gen_pwm_curveB">"Table"</constant>
+<constant digits="0" name="gen_pwm_load_offsetA">2.0</constant>
+<constant digits="0" name="gen_pwm_load_offsetB">4.0</constant>
+<constant digits="0" name="gen_pwm_load_sizeA">130.0</constant>
+<constant digits="0" name="gen_pwm_load_sizeB">130.0</constant>
+<constant digits="0" name="gen_pwm_load_canidA">4.0</constant>
+<constant digits="0" name="gen_pwm_load_canidB">4.0</constant>
+<constant digits="0" name="gen_pwm_xaxis_offsetA">6.0</constant>
+<constant digits="0" name="gen_pwm_xaxis_offsetB">6.0</constant>
+<constant digits="0" name="gen_pwm_xaxis_sizeA">130.0</constant>
+<constant digits="0" name="gen_pwm_xaxis_sizeB">130.0</constant>
+<constant digits="0" name="gen_pwm_xaxis_canidA">0.0</constant>
+<constant digits="0" name="gen_pwm_xaxis_canidB">0.0</constant>
+<constant cols="1" digits="0" name="xaxis_tableA" rows="8">
+         500.0 
+         1000.0 
+         2000.0 
+         3000.0 
+         4000.0 
+         5000.0 
+         6000.0 
+         8000.0 
+      </constant>
+<constant cols="1" digits="0" name="load_tableA" rows="8">
+         200.0 
+         300.0 
+         400.0 
+         500.0 
+         600.0 
+         700.0 
+         800.0 
+         1000.0 
+      </constant>
+<constant cols="1" digits="0" name="xaxis_curveA" rows="16">
+         500.0 
+         1000.0 
+         2000.0 
+         3000.0 
+         4000.0 
+         5000.0 
+         6000.0 
+         8000.0 
+         200.0 
+         300.0 
+         400.0 
+         500.0 
+         600.0 
+         700.0 
+         800.0 
+         1000.0 
+      </constant>
+<constant cols="1" digits="0" name="xaxis_tableB" rows="8">
+         500.0 
+         1000.0 
+         2000.0 
+         3000.0 
+         4000.0 
+         5000.0 
+         6000.0 
+         8000.0 
+      </constant>
+<constant cols="1" digits="0" name="load_tableB" rows="8">
+         200.0 
+         300.0 
+         400.0 
+         500.0 
+         600.0 
+         700.0 
+         800.0 
+         1000.0 
+      </constant>
+<constant cols="1" digits="0" name="xaxis_curveB" rows="16">
+         500.0 
+         1000.0 
+         2000.0 
+         3000.0 
+         4000.0 
+         5000.0 
+         6000.0 
+         8000.0 
+         200.0 
+         300.0 
+         400.0 
+         500.0 
+         600.0 
+         700.0 
+         800.0 
+         1000.0 
+      </constant>
+<constant cols="8" digits="1" name="duty_tableA" rows="8" units="%">
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="1" digits="1" name="duty_yaxisA" rows="16" units="%">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="1" digits="1" name="duty10_yaxisA" rows="16" units="%">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="1" digits="2" name="duty12_yaxisA" rows="16" units="%">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="8" digits="1" name="duty_tableB" rows="8" units="%">
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="1" digits="1" name="duty_yaxisB" rows="16" units="%">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="1" digits="1" name="duty10_yaxisB" rows="16" units="%">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="1" digits="2" name="duty12_yaxisB" rows="16" units="%">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant name="pshbut_enable">"Off"</constant>
+<constant name="pshbut_input">"Active Low"</constant>
+<constant name="pshbut_output">"Active Low"</constant>
+<constant name="pshbut_mode">"Button-only"</constant>
+<constant name="pshbut_in_port">"PTE2"</constant>
+<constant name="pshbut_out_port">"PTE3"</constant>
+<constant digits="0" name="pshbut_rpm" units="rpm">400.0</constant>
+<constant digits="1" name="pshbut_timeout" units="s">5.0</constant>
+<constant cols="1" digits="0" name="popEnabled" rows="4" units="on/off">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="4" digits="0" name="popCondition" rows="3">
+         62.0 62.0 62.0 62.0 
+         62.0 62.0 62.0 62.0 
+         62.0 62.0 62.0 62.0 
+      </constant>
+<constant cols="4" digits="0" name="popConnector" rows="2">
+         32.0 32.0 32.0 32.0 
+         32.0 32.0 32.0 32.0 
+      </constant>
+<constant cols="1" digits="0" name="popInitValue" rows="4">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+<constant cols="1" digits="0" name="popPortValue" rows="4">
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+      </constant>
+<constant cols="4" digits="0" name="popOutSize" rows="3">
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="4" digits="0" name="popOutOffset" rows="3">
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="4" digits="0" name="popThreshold" rows="3">
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="4" digits="0" name="popHysteresis" rows="3">
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+         0.0 0.0 0.0 0.0 
+      </constant>
+<constant cols="4" digits="0" name="popCanId" rows="3">
+         4.0 4.0 4.0 4.0 
+         4.0 4.0 4.0 4.0 
+         4.0 4.0 4.0 4.0 
+      </constant>
+<constant name="pop1sel">"PTE2"</constant>
+<constant name="pop2sel">"PTE3"</constant>
+<constant name="pop3sel">"PTE4/SCL"</constant>
+<constant name="pop4sel">"PTE5/SDA"</constant>
+<constant name="outmsg_enable">"Disable"</constant>
+<constant name="outmsg_start">"1"</constant>
+<constant name="port1_servo">"PWM"</constant>
+<constant name="port2_servo">"PWM"</constant>
+<constant name="port3_servo">"PWM"</constant>
+<constant name="pwmout1_servo">"PWM"</constant>
+<constant name="pwmout2_servo">"PWM"</constant>
+<constant name="pwmout3_servo">"PWM"</constant>
+<constant name="pwmout4_servo">"PWM"</constant>
+<constant name="pwmout5_servo">"PWM"</constant>
+<constant name="pwmout6_servo">"PWM"</constant>
+<constant name="slc_temp_enable">"Disable"</constant>
+<constant name="display_brightness1">"15"</constant>
+<constant name="display_type1">"Disabled"</constant>
+<constant name="display_brightness2">"15"</constant>
+<constant name="display_type2">"Disabled"</constant>
+<constant name="display_brightness3">"15"</constant>
+<constant name="display_type3">"Disabled"</constant>
+<constant name="display_brightness4">"15"</constant>
+<constant name="display_type4">"Disabled"</constant>
+<constant name="display_brightness5">"15"</constant>
+<constant name="display_type5">"Disabled"</constant>
+<constant name="display_brightness6">"15"</constant>
+<constant name="display_type6">"Disabled"</constant>
+<constant name="display_brightness7">"15"</constant>
+<constant name="display_type7">"Disabled"</constant>
+<constant name="display_brightness8">"15"</constant>
+<constant name="display_type8">"Disabled"</constant>
+<constant name="display_val11">"AFR1"</constant>
+<constant name="display_val12">"AFR2"</constant>
+<constant name="display_val13">"AFR3"</constant>
+<constant name="display_val14">"AFR4"</constant>
+<constant name="display_val21">"SLC Temp1"</constant>
+<constant name="display_val22">"SLC Temp2"</constant>
+<constant name="display_val23">"SLC Temp3"</constant>
+<constant name="display_val24">"SLC Temp4"</constant>
+<constant name="display_val31">"Disabled"</constant>
+<constant name="display_val32">"Disabled"</constant>
+<constant name="display_val33">"Disabled"</constant>
+<constant name="display_val34">"Disabled"</constant>
+<constant name="display_val41">"Disabled"</constant>
+<constant name="display_val42">"Disabled"</constant>
+<constant name="display_val43">"Disabled"</constant>
+<constant name="display_val44">"Disabled"</constant>
+<constant name="display_val51">"Disabled"</constant>
+<constant name="display_val52">"Disabled"</constant>
+<constant name="display_val53">"Disabled"</constant>
+<constant name="display_val54">"Disabled"</constant>
+<constant name="display_val61">"Disabled"</constant>
+<constant name="display_val62">"Disabled"</constant>
+<constant name="display_val63">"Disabled"</constant>
+<constant name="display_val64">"Disabled"</constant>
+<constant name="display_val71">"Disabled"</constant>
+<constant name="display_val72">"Disabled"</constant>
+<constant name="display_val73">"Disabled"</constant>
+<constant name="display_val74">"Disabled"</constant>
+<constant name="display_val81">"Disabled"</constant>
+<constant name="display_val82">"Disabled"</constant>
+<constant name="display_val83">"Disabled"</constant>
+<constant name="display_val84">"Disabled"</constant>
+<constant name="table_lock">"Locked"</constant>
+<constant name="sensor_cal1">"Disabled"</constant>
+<constant name="sensor_cal2">"Disabled"</constant>
+<constant name="sensor_cal3">"Disabled"</constant>
+<constant name="sensor_cal4">"Disabled"</constant>
+<constant name="sensor_cal5">"Disabled"</constant>
+<constant name="sensor_cal6">"Disabled"</constant>
+<constant name="sensor_cal7">"Disabled"</constant>
+<constant name="sensor_cal8">"Disabled"</constant>
+<constant name="sensor_cal9">"Disabled"</constant>
+<constant name="sensor_dec1">"0"</constant>
+<constant name="sensor_dec2">"0"</constant>
+<constant name="sensor_dec3">"0"</constant>
+<constant name="sensor_dec4">"0"</constant>
+<constant name="sensor_dec5">"0"</constant>
+<constant name="sensor_dec6">"0"</constant>
+<constant name="sensor_dec7">"0"</constant>
+<constant name="sensor_dec8">"0"</constant>
+<constant name="sensor_dec9">"0"</constant>
+<constant cols="1" digits="0" name="UNALLOCATED_TOP_0" rows="282" units="RAW">
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+         0.0 
+      </constant>
+</page>
+<page number="1" size="51"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="SHOW_INDICATORS" value="SHOW_INDICATORS"/>
+<setting name="SERIAL_OFF" value="SERIAL_OFF"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>

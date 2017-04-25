@@ -1,0 +1,3 @@
+#Firmware: MS3 1.4.0 release     20150709 19:51BST (c) JSM/KC ********
+PriLevel,SecLevel,Trigger,Sync,ToothTime,Time
+Flag,Flag,Flag,Flag,ms,ms

@@ -1,0 +1,33 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sun Jun 26 13:10:20 PDT 2016
+#Sun Jun 26 13:10:20 PDT 2016
+commPort=COM1
+ecuSettings=CAN_COMMANDS|CYL_12_16_SUPPORT_OFF|FAHRENHEIT|INTERNAL_LOG_FIELDS_OFF|OUTMSG_EDITING_OFF|PORT_STATUS_OFF|PW_4X_OFF|
+CommSettingAidans-MacBook-Air.localCommDriver.controllerInterfaceId=FTDI - D2XX driver
+canId=0
+CommSettingAidans-MacBook-Air.localCommDriver.FTDI\ -\ D2XX\ driverBaud\ Rate=115200
+CommSettingMSCommDriver.FTDI\ -\ D2XX\ driverDevice\ Serial\ \#=AH01JWCC
+selectedComDriver=Multi Interface MegaSquirt Driver
+vvt_timing1_tblVVT\ Intake\ (Relative\ Timing)_Y=279
+vvt_timing1_tblVVT\ Intake\ (Relative\ Timing)_X=488
+projectDescription=
+PersistedAccumulatedValueNials\ VVT__(\ (\ tsFuelFlowGph\ *\ deltatime\ /\ 3600.0\ )\ )=0.0
+vvt_timing1_tblVVT\ Intake\ (Relative\ Timing)_height=298
+projectName=Nials VVT
+PersistedAccumulatedValueNials\ VVT__(\ tsInputSpeedMPH\ /\ 3600.0\ *\ deltatime\ )=0.0
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_Y=215
+CommSettingCom\ Port=COM1
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_width=644
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_X=356
+CommSettingMSCommDriver.FTDI\ -\ D2XX\ driverBaud\ Rate=115200
+logFileDir=/Users/aidandj/TunerStudioProjects/Nials VVT/DataLogs
+ecuConfigFile=mainController.ini
+CommSettingBaud\ Rate=115200
+vvt_timing1_tblVVT\ Intake\ (Relative\ Timing)_width=380
+CommSettingMSCommDriver.controllerInterfaceId=FTDI - D2XX driver
+firmwareDescription=MS3 1.4.0 release     20150709 19\:51BST (c) JSM/KC ********
+dashBoardFile=/dashboard//dashboard.dash
+CommSettingAidans-MacBook-Air.localCommDriver.FTDI\ -\ D2XX\ driverDevice\ Serial\ \#=AH01JWCC
+ignitionTbl1Ignition\ Table\ 1\ (Spark\ Advance)_height=426
+baudRate=115200
